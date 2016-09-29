@@ -4,7 +4,7 @@ sap.ui.define([
 	"use strict";
 
 	return Controller.extend("myshare.controller.View1", {
-
+// test succesfull
 	});
 
 });
