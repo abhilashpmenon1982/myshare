@@ -7,6 +7,7 @@ sap.ui.define([
 // test succesfull 2
 // pull release
 // pull 1
+// pull 2
 	});
 
 });
