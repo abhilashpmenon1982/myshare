@@ -5,6 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("myshare.controller.View1", {
 // test succesfull 2
+// pull release
 	});
 
 });
